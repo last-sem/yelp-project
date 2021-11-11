@@ -1,7 +1,1 @@
-
-data/yelp_academic_dataset_business.json
-data/yelp_academic_dataset_checkin.json
-data/yelp_academic_dataset_covid_features.json
-data/yelp_academic_dataset_review.json
-data/yelp_academic_dataset_tip.json
-data/yelp_academic_dataset_user.json
+data/
